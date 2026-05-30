@@ -1,0 +1,4 @@
+.DS_Store
+.editable-pptx-assets/
+*.pptx
+node_modules/
