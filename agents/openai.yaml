@@ -1,0 +1,7 @@
+interface:
+  display_name: "Editable PPTX Deck"
+  short_description: "Build native, editable PowerPoint decks"
+  brand_color: "#192B1B"
+  default_prompt: "Use $editable-pptx-deck to create an editable PowerPoint deck from this outline."
+policy:
+  allow_implicit_invocation: true
