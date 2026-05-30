@@ -1,0 +1,23 @@
+{
+  "name": "grove",
+  "description": "Quiet literary editorial PPT theme: forest green, warm paper, terracotta accent, serif headlines, light sans body.",
+  "colors": {
+    "bg": "192B1B",
+    "bg2": "1E3221",
+    "paper": "E8E4D6",
+    "paper2": "DEDAD0",
+    "cream": "D4CFBF",
+    "cream2": "AAA698",
+    "green2": "66745E",
+    "dark": "192B1B",
+    "accent": "C8524A",
+    "border": "465246",
+    "borderLight": "CFC9BB",
+    "white": "FFFFFF"
+  },
+  "fonts": {
+    "serif": "Noto Serif SC",
+    "sans": "Noto Sans SC",
+    "mono": "Courier New"
+  }
+}
