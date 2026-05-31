@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <defs>
+    <linearGradient id="softFade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F6F1E8" stop-opacity="0.98"/>
+      <stop offset="0.46" stop-color="#F6F1E8" stop-opacity="0.82"/>
+      <stop offset="0.72" stop-color="#F6F1E8" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#F6F1E8" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" fill="#F6F1E8"/>
+  <image href="../images/editorial-hero.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+  <rect width="1280" height="720" fill="url(#softFade)"/>
+  <g font-family="Microsoft YaHei, Arial, sans-serif">
+    <line x1="78" y1="78" x2="78" y2="642" stroke="#1F241F" stroke-width="2"/>
+    <text x="112" y="92" font-size="17" fill="#6C7A63" font-weight="700">SPRING TEA LAUNCH 2026</text>
+    <text x="112" y="210" font-size="68" fill="#1F241F" font-weight="800">春季茶饮新品</text>
+    <text x="112" y="292" font-size="68" fill="#1F241F" font-weight="800">营销策划案</text>
+    <line x1="112" y1="330" x2="430" y2="330" stroke="#B7A27A" stroke-width="4"/>
+    <text x="112" y="384" font-size="24" fill="#3A4038">把第一口春天，做成可被看见、被下单、被复购的上新事件。</text>
+    <text x="112" y="450" font-size="18" fill="#6B655C">新品矩阵 / 内容种草 / 门店转化 / 会员复购</text>
+    <text x="112" y="640" font-size="15" fill="#6B655C">Ai-LaoHuang PPT Studio · Editorial Magazine Direction</text>
+  </g>
+</svg>

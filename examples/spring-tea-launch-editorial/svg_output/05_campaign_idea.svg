@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#EEE7DC"/>
+  <g font-family="Microsoft YaHei, Arial, sans-serif">
+    <text x="72" y="72" font-size="15" fill="#6C7A63" font-weight="700">04 / 活动主张</text>
+    <text x="72" y="210" font-size="72" fill="#1F241F" font-weight="800">把一杯茶，包装成</text>
+    <text x="72" y="300" font-size="72" fill="#1F241F" font-weight="800">春日仪式感。</text>
+    <line x1="76" y1="350" x2="680" y2="350" stroke="#B7A27A" stroke-width="4"/>
+    <text x="76" y="418" font-size="24" fill="#3A4038">核心 campaign：第一口春天，今天上线</text>
+    <text x="76" y="468" font-size="19" fill="#6B655C">门店陈列、杯贴、社媒话题和会员券，都围绕“第一口春天”统一表达。</text>
+    <g>
+      <line x1="76" y1="560" x2="1130" y2="560" stroke="#1F241F" stroke-width="1"/>
+      <text x="76" y="616" font-size="20" fill="#1F241F" font-weight="800">视觉符号</text>
+      <text x="286" y="616" font-size="18" fill="#6B655C">光影 / 茶香 / 石材 / 春枝</text>
+      <text x="560" y="616" font-size="20" fill="#1F241F" font-weight="800">内容钩子</text>
+      <text x="770" y="616" font-size="18" fill="#6B655C">今天第一杯 / 轻负担 / 门店打卡</text>
+    </g>
+  </g>
+</svg>

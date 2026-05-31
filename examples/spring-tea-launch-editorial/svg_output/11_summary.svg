@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <defs>
+    <linearGradient id="endFade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1F241F" stop-opacity="0.96"/>
+      <stop offset="0.58" stop-color="#1F241F" stop-opacity="0.72"/>
+      <stop offset="1" stop-color="#1F241F" stop-opacity="0.20"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" fill="#1F241F"/>
+  <image href="../images/closing-window.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+  <rect width="1280" height="720" fill="url(#endFade)"/>
+  <g font-family="Microsoft YaHei, Arial, sans-serif">
+    <text x="72" y="82" font-size="15" fill="#B7A27A" font-weight="700">FINAL TAKEAWAY</text>
+    <text x="72" y="210" font-size="58" fill="#F6F1E8" font-weight="800">这次春季上新，</text>
+    <text x="72" y="286" font-size="58" fill="#F6F1E8" font-weight="800">要卖的不是茶饮。</text>
+    <line x1="72" y1="332" x2="560" y2="332" stroke="#B7A27A" stroke-width="4"/>
+    <text x="72" y="392" font-size="24" fill="#D8D0C1">而是消费者“愿意拍、愿意喝、愿意再来”的春日理由。</text>
+    <g>
+      <line x1="72" y1="520" x2="850" y2="520" stroke="#6C7A63" stroke-width="1"/>
+      <text x="72" y="574" font-size="20" fill="#F6F1E8" font-weight="800">产品</text>
+      <text x="174" y="574" font-size="17" fill="#D8D0C1">完整新品矩阵，不靠单点爆发</text>
+      <text x="72" y="624" font-size="20" fill="#F6F1E8" font-weight="800">传播</text>
+      <text x="174" y="624" font-size="17" fill="#D8D0C1">统一口径，用空间质感提升内容质感</text>
+      <text x="72" y="674" font-size="20" fill="#F6F1E8" font-weight="800">转化</text>
+      <text x="174" y="674" font-size="17" fill="#D8D0C1">首杯到复购，提前设计下一次购买</text>
+    </g>
+  </g>
+</svg>

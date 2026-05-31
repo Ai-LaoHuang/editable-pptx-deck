@@ -1,0 +1,26 @@
+Ai-LaoHuang PPT Studio
+======================
+
+This skill distribution is a branded and workflow-customized derivative of:
+
+  ppt-master
+  https://github.com/hugohe3/ppt-master
+
+The upstream project is licensed under the MIT License:
+
+  Copyright (c) 2025-2026 Hugo He
+
+The MIT license text is included in LICENSE and must remain with any copy or
+substantial portion of this distribution.
+
+This derivative adds Ai-LaoHuang-oriented positioning, Chinese commercial PPT
+workflow guidance, and a default mixed visual strategy that combines AI-generated
+images with editable PowerPoint-native text, shapes, diagrams, and assets.
+
+Third-party icon and brand mark notes:
+
+- Tabler Icons assets are MIT-licensed by their respective authors.
+- Phosphor Icons assets are MIT-licensed by their respective authors.
+- Simple Icons assets are generally CC0-1.0, but the depicted brand marks may
+  still be subject to trademark rights. Do not use brand marks to imply
+  endorsement, partnership, or ownership.

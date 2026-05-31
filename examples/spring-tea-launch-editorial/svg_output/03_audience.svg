@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#F6F1E8"/>
+  <image href="../images/store-architecture.png" x="0" y="0" width="500" height="720" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="0" y="0" width="500" height="720" fill="#1F241F" opacity="0.16"/>
+  <g font-family="Microsoft YaHei, Arial, sans-serif">
+    <text x="552" y="72" font-size="15" fill="#6C7A63" font-weight="700">02 / 人群判断</text>
+    <text x="552" y="142" font-size="46" fill="#1F241F" font-weight="800">先抓“春日尝鲜型”用户</text>
+    <text x="552" y="188" font-size="20" fill="#6B655C">不是所有人都被新品打动，先让愿意拍照、愿意分享的人带动扩散。</text>
+    <line x1="552" y1="242" x2="1180" y2="242" stroke="#1F241F" stroke-width="2"/>
+    <g>
+      <text x="552" y="312" font-size="20" fill="#B7A27A" font-weight="800">A / 上班轻饮</text>
+      <text x="552" y="352" font-size="18" fill="#1F241F">午后低负担、办公室分享、外卖顺手加购。</text>
+      <text x="552" y="384" font-size="16" fill="#6B655C">关键词：低糖、清爽、第二杯券</text>
+      <line x1="552" y1="424" x2="1180" y2="424" stroke="#D8D0C1" stroke-width="1"/>
+      <text x="552" y="488" font-size="20" fill="#B7A27A" font-weight="800">B / 校园尝鲜</text>
+      <text x="552" y="528" font-size="18" fill="#1F241F">新品首发、社交拍照、轻量价格敏感。</text>
+      <text x="552" y="560" font-size="16" fill="#6B655C">关键词：首杯价、限定杯贴、同学拼单</text>
+      <line x1="552" y1="600" x2="1180" y2="600" stroke="#D8D0C1" stroke-width="1"/>
+      <text x="920" y="488" font-size="20" fill="#B7A27A" font-weight="800">C / 闺蜜社交</text>
+      <text x="920" y="528" font-size="18" fill="#1F241F">周末逛街、门店打卡、双杯套餐。</text>
+      <text x="920" y="560" font-size="16" fill="#6B655C">关键词：高颜值、合照、限定周边</text>
+    </g>
+  </g>
+</svg>

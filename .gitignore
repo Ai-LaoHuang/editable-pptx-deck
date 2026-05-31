@@ -1,4 +1,14 @@
 .DS_Store
-.editable-pptx-assets/
-*.pptx
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
 node_modules/
+
+# Generated working files. Showcase decks under examples/ are intentionally tracked.
+outputs/
+backup/
+svg_final/
+notes/
+*.tmp

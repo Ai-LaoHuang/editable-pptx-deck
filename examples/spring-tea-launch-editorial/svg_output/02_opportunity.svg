@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#F6F1E8"/>
+  <g font-family="Microsoft YaHei, Arial, sans-serif">
+    <text x="72" y="72" font-size="15" fill="#6C7A63" font-weight="700">01 / 市场机会</text>
+    <text x="72" y="148" font-size="48" fill="#1F241F" font-weight="800">春季上新，不只是换口味。</text>
+    <text x="72" y="194" font-size="21" fill="#6B655C">消费者要的是“轻负担、可拍照、可分享、可复购”的季节体验。</text>
+    <line x1="72" y1="250" x2="1180" y2="250" stroke="#D8D0C1" stroke-width="1"/>
+    <g>
+      <text x="78" y="318" font-size="72" fill="#1F241F" font-weight="800">01</text>
+      <text x="210" y="306" font-size="25" fill="#1F241F" font-weight="800">健康感成为购买理由</text>
+      <text x="210" y="344" font-size="18" fill="#6B655C">低糖、鲜果、真茶底，把“好喝”升级为“愿意多买一次”。</text>
+      <line x1="72" y1="384" x2="1180" y2="384" stroke="#D8D0C1" stroke-width="1"/>
+      <text x="78" y="452" font-size="72" fill="#6C7A63" font-weight="800">02</text>
+      <text x="210" y="440" font-size="25" fill="#1F241F" font-weight="800">视觉感决定传播效率</text>
+      <text x="210" y="478" font-size="18" fill="#6B655C">春日色彩、杯型层次、门店光影，构成用户自发拍摄的理由。</text>
+      <line x1="72" y1="518" x2="1180" y2="518" stroke="#D8D0C1" stroke-width="1"/>
+      <text x="78" y="586" font-size="72" fill="#B7A27A" font-weight="800">03</text>
+      <text x="210" y="574" font-size="25" fill="#1F241F" font-weight="800">复购线要从第一杯开始设计</text>
+      <text x="210" y="612" font-size="18" fill="#6B655C">上新不是单次曝光，而是首杯、分享、第二杯券、会员沉淀的闭环。</text>
+    </g>
+    <rect x="986" y="84" width="150" height="150" fill="#1F241F"/>
+    <text x="1014" y="142" font-size="18" fill="#F6F1E8">Fresh</text>
+    <text x="1014" y="180" font-size="18" fill="#F6F1E8">Light</text>
+    <text x="1014" y="218" font-size="18" fill="#F6F1E8">Shareable</text>
+  </g>
+</svg>

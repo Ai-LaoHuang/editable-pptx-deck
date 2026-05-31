@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#F6F1E8"/>
+  <g font-family="Microsoft YaHei, Arial, sans-serif">
+    <text x="72" y="72" font-size="15" fill="#6C7A63" font-weight="700">09 / 风险兜底</text>
+    <text x="72" y="142" font-size="46" fill="#1F241F" font-weight="800">爆品不只靠创意，也靠运营兜底</text>
+    <text x="72" y="188" font-size="20" fill="#6B655C">把风险写得轻一点，但动作必须足够清楚。</text>
+    <line x1="72" y1="252" x2="1180" y2="252" stroke="#1F241F" stroke-width="2"/>
+    <text x="72" y="320" font-size="22" fill="#1F241F" font-weight="800">风险 1：新品好看但不复购</text>
+    <text x="520" y="320" font-size="18" fill="#6B655C">动作：主推低糖和真茶底，设置 7 日第二杯券和会员任务。</text>
+    <line x1="72" y1="370" x2="1180" y2="370" stroke="#D8D0C1" stroke-width="1"/>
+    <text x="72" y="438" font-size="22" fill="#1F241F" font-weight="800">风险 2：门店执行不统一</text>
+    <text x="520" y="438" font-size="18" fill="#6B655C">动作：3 张核心陈列图、员工推荐话术、每日物料打卡。</text>
+    <line x1="72" y1="488" x2="1180" y2="488" stroke="#D8D0C1" stroke-width="1"/>
+    <text x="72" y="556" font-size="22" fill="#1F241F" font-weight="800">风险 3：达人内容同质化</text>
+    <text x="520" y="556" font-size="18" fill="#6B655C">动作：分场景 Brief，限定空间光影、第一口体验和轻负担表达。</text>
+    <rect x="72" y="622" width="1108" height="1" fill="#D8D0C1"/>
+    <text x="72" y="664" font-size="17" fill="#6B655C">兜底原则：一个风险对应一个现场动作，避免只写态度不写执行。</text>
+  </g>
+</svg>

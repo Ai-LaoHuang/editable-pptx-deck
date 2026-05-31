@@ -1,7 +1,4 @@
 interface:
-  display_name: "Editable PPTX Deck"
-  short_description: "Build native, editable PowerPoint decks"
-  brand_color: "#192B1B"
-  default_prompt: "Use $editable-pptx-deck to create an editable PowerPoint deck from this outline."
-policy:
-  allow_implicit_invocation: true
+  display_name: "Ai-LaoHuang PPT Studio"
+  short_description: "Create Chinese commercial editable PPT decks"
+  default_prompt: "用 Ai-LaoHuang PPT Studio 生成一份中文商业 PPT，采用 Codex 生图 + 可编辑形状混合方式，并输出 PPTX 和预览图。"

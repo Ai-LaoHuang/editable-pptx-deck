@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#EEE7DC"/>
+  <g font-family="Microsoft YaHei, Arial, sans-serif">
+    <text x="72" y="72" font-size="15" fill="#6C7A63" font-weight="700">08 / 预算与 KPI</text>
+    <text x="72" y="142" font-size="46" fill="#1F241F" font-weight="800">用 100 份预算撬动三类结果</text>
+    <text x="72" y="188" font-size="20" fill="#6B655C">预算不是均摊，而是服务曝光、转化和复购三个核心动作。</text>
+    <line x1="72" y1="260" x2="1180" y2="260" stroke="#1F241F" stroke-width="2"/>
+    <text x="82" y="328" font-size="24" fill="#1F241F" font-weight="800">曝光种草 40%</text>
+    <rect x="82" y="358" width="390" height="12" fill="#D8D0C1"/>
+    <rect x="82" y="358" width="312" height="12" fill="#6C7A63"/>
+    <text x="82" y="412" font-size="17" fill="#6B655C">达人内容、平台话题、门店影像素材</text>
+    <text x="82" y="466" font-size="24" fill="#1F241F" font-weight="800">转化补贴 35%</text>
+    <rect x="82" y="496" width="390" height="12" fill="#D8D0C1"/>
+    <rect x="82" y="496" width="273" height="12" fill="#B7A27A"/>
+    <text x="82" y="550" font-size="17" fill="#6B655C">首杯券、双杯券、外卖平台资源位</text>
+    <text x="620" y="328" font-size="24" fill="#1F241F" font-weight="800">门店体验 25%</text>
+    <rect x="620" y="358" width="390" height="12" fill="#D8D0C1"/>
+    <rect x="620" y="358" width="195" height="12" fill="#8A6F52"/>
+    <text x="620" y="412" font-size="17" fill="#6B655C">物料陈列、试饮、杯贴、员工推荐</text>
+    <rect x="620" y="488" width="1" height="88" fill="#B7A27A"/>
+    <text x="650" y="518" font-size="20" fill="#1F241F" font-weight="800">核心 KPI</text>
+    <text x="650" y="556" font-size="17" fill="#6B655C">新品首周销量 / 首购转化率 / 双杯券核销 / 7 日复购率 / UGC 发布量</text>
+  </g>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#F6F1E8"/>
+  <g font-family="Microsoft YaHei, Arial, sans-serif">
+    <text x="72" y="72" font-size="15" fill="#6C7A63" font-weight="700">07 / 渠道转化</text>
+    <text x="72" y="142" font-size="46" fill="#1F241F" font-weight="800">从看见，到下单，再到复购</text>
+    <text x="72" y="188" font-size="20" fill="#6B655C">渠道不是平铺，而是按用户决策顺序串起来。</text>
+    <line x1="72" y1="276" x2="1160" y2="276" stroke="#1F241F" stroke-width="2"/>
+    <g>
+      <text x="92" y="252" font-size="24" fill="#1F241F" font-weight="800">种草</text>
+      <text x="92" y="326" font-size="16" fill="#6B655C">达人 / UGC</text>
+      <text x="92" y="354" font-size="16" fill="#6B655C">门店光影图</text>
+      <line x1="280" y1="226" x2="280" y2="478" stroke="#D8D0C1" stroke-width="1"/>
+      <text x="330" y="252" font-size="24" fill="#1F241F" font-weight="800">领券</text>
+      <text x="330" y="326" font-size="16" fill="#6B655C">首杯券</text>
+      <text x="330" y="354" font-size="16" fill="#6B655C">第二杯券</text>
+      <line x1="520" y1="226" x2="520" y2="478" stroke="#D8D0C1" stroke-width="1"/>
+      <text x="570" y="252" font-size="24" fill="#1F241F" font-weight="800">到店外卖</text>
+      <text x="570" y="326" font-size="16" fill="#6B655C">门店陈列</text>
+      <text x="570" y="354" font-size="16" fill="#6B655C">平台推荐</text>
+      <line x1="760" y1="226" x2="760" y2="478" stroke="#D8D0C1" stroke-width="1"/>
+      <text x="810" y="252" font-size="24" fill="#1F241F" font-weight="800">加购</text>
+      <text x="810" y="326" font-size="16" fill="#6B655C">轻食搭配</text>
+      <text x="810" y="354" font-size="16" fill="#6B655C">双杯套餐</text>
+      <line x1="1000" y1="226" x2="1000" y2="478" stroke="#D8D0C1" stroke-width="1"/>
+      <text x="1050" y="252" font-size="24" fill="#6C7A63" font-weight="800">复购</text>
+      <text x="1050" y="326" font-size="16" fill="#6B655C">会员积分</text>
+      <text x="1050" y="354" font-size="16" fill="#6B655C">新品提醒</text>
+    </g>
+    <rect x="72" y="548" width="1108" height="1" fill="#D8D0C1"/>
+    <text x="72" y="600" font-size="18" fill="#1F241F" font-weight="800">关键判断</text>
+    <text x="210" y="600" font-size="18" fill="#6B655C">线下空间负责“质感证明”，线上内容负责“购买理由”，私域负责“下一杯”。</text>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#1F241F"/>
+  <image href="../images/content-filming.png" x="585" y="0" width="695" height="720" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="585" y="0" width="695" height="720" fill="#1F241F" opacity="0.24"/>
+  <g font-family="Microsoft YaHei, Arial, sans-serif">
+    <text x="72" y="72" font-size="15" fill="#B7A27A" font-weight="700">06 / 内容种草</text>
+    <text x="72" y="146" font-size="46" fill="#F6F1E8" font-weight="800">让用户替新品解释</text>
+    <text x="72" y="192" font-size="20" fill="#D8D0C1">为什么买。</text>
+    <line x1="72" y1="252" x2="515" y2="252" stroke="#B7A27A" stroke-width="3"/>
+    <text x="72" y="318" font-size="22" fill="#F6F1E8" font-weight="800">小红书：春日第一杯打卡模板</text>
+    <text x="72" y="356" font-size="17" fill="#D8D0C1">场景、光影、杯型、低糖理由，统一成可复制笔记结构。</text>
+    <line x1="72" y1="402" x2="515" y2="402" stroke="#465046" stroke-width="1"/>
+    <text x="72" y="456" font-size="22" fill="#F6F1E8" font-weight="800">抖音：3 秒光影出杯镜头</text>
+    <text x="72" y="494" font-size="17" fill="#D8D0C1">门店空间感带出高级度，避免只拍水果和搅拌动作。</text>
+    <line x1="72" y1="540" x2="515" y2="540" stroke="#465046" stroke-width="1"/>
+    <text x="72" y="594" font-size="22" fill="#F6F1E8" font-weight="800">私域：双杯券社交裂变</text>
+    <text x="72" y="632" font-size="17" fill="#D8D0C1">把“我想喝”转成“我约你喝”，提高第二杯使用率。</text>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#F6F1E8"/>
+  <image href="../images/ingredient-still.png" x="735" y="0" width="545" height="720" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="735" y="0" width="545" height="720" fill="#1F241F" opacity="0.08"/>
+  <g font-family="Microsoft YaHei, Arial, sans-serif">
+    <text x="72" y="72" font-size="15" fill="#6C7A63" font-weight="700">03 / 产品矩阵</text>
+    <text x="72" y="142" font-size="46" fill="#1F241F" font-weight="800">一款爆品，带三条复购线</text>
+    <text x="72" y="188" font-size="20" fill="#6B655C">用“主推爆品 + 轻负担线 + 分享线”覆盖首单、加购和多人场景。</text>
+    <line x1="72" y1="248" x2="672" y2="248" stroke="#1F241F" stroke-width="2"/>
+    <text x="72" y="304" font-size="28" fill="#1F241F" font-weight="800">主推爆品：茉莉青柠冷萃</text>
+    <text x="72" y="344" font-size="18" fill="#6B655C">定位：春日第一杯；卖点：真茶底、青柠香、轻果感。</text>
+    <line x1="72" y1="390" x2="672" y2="390" stroke="#D8D0C1" stroke-width="1"/>
+    <text x="72" y="444" font-size="25" fill="#1F241F" font-weight="800">流量款：桃桃乌龙冰茶</text>
+    <text x="72" y="482" font-size="18" fill="#6B655C">定位：拍照和社交分享；策略：高颜值杯层、闺蜜双杯。</text>
+    <line x1="72" y1="528" x2="672" y2="528" stroke="#D8D0C1" stroke-width="1"/>
+    <text x="72" y="582" font-size="25" fill="#1F241F" font-weight="800">利润款：薄荷茉莉轻乳</text>
+    <text x="72" y="620" font-size="18" fill="#6B655C">定位：会员复购和下午茶；策略：第二杯券、低糖加价购。</text>
+  </g>
+</svg>
